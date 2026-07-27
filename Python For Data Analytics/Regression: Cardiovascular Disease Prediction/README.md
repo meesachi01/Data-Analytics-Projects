@@ -1,4 +1,4 @@
-# ❤️ 10-Year Coronary Heart Disease (CHD) Risk Prediction
+#  10-Year Coronary Heart Disease (CHD) Risk Prediction
 
 ## Overview
 
